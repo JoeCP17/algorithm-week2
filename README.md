@@ -2,25 +2,17 @@
 
 
 
-# 링크드 리스트 (linked list) 
+# 2주차 주제 ( Week2 ) 
 
-00 study_class 
+1. 링크드 리스트( linked list) 
 
-간단한 링크드리스트 학습 
+2. 이진 탐색 (Binary Search) 
 
+3. 순차 탐색 (Sequential Search) 
 
-(simple practice for linkedlist)
+4. 재귀함수 (recursion) 
 
-
-
-
-
+5. 이를 통한 과제 및 숙제 (applicated questions Homework) 
 
 
-
-
-
-01~02.print_all_linked_list
-
-링크드리스트 응용 문제 
-(Applicated question for linkedlist)
+-출처 : 스파르타 코딩클럽 
